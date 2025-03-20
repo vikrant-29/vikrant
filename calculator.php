@@ -77,6 +77,8 @@ if (isset($_POST['equal'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="calc.css">
     <title>PHP calculator</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8640785175836037"
+     crossorigin="anonymous"></script>
 </head>
 
 <body>
